@@ -1,0 +1,7 @@
+{
+  "files": ["src/lib/main.ts"],
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "Bundler"
+  },
+}
